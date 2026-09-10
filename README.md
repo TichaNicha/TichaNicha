@@ -1,6 +1,8 @@
 ## helloephant 🐘👋
 
-![spinephant](media/spin-ephant.gif)
+<p align="center">
+  ![spinephant](media/spin-ephant.gif)
+</p>
 
 
 <p align="center">
