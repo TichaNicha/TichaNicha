@@ -1,9 +1,8 @@
 ## helloephant 🐘👋
 
 <p align="center">
-  ![spinephant](media/spin-ephant.gif)
+  <img src="media/spin-ephant.gif" alt="spinephant">
 </p>
-
 
 <p align="center">
   Hi, I'm Nicha - I like making cool things <br><br>
